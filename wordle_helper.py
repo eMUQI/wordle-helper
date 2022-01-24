@@ -67,8 +67,8 @@ for i in range(5):
 
         if not flag:
             continue
-
         temp_list.append(word)
+
     print("suggest:", temp_list)
     word = temp_list.copy()
     print(40*"-")
