@@ -1,6 +1,8 @@
 # wordle-helper
 A python script to help solve [WORDLE](https://www.powerlanguage.co.uk/wordle/) game
 
+相关文章：[Python Wordle 解题小帮手](https://wulu.zone/posts/Wordle-Python)
+
 ## Usage
 ```
 git clone https://github.com/eMUQI/wordle-helper.git
