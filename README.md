@@ -1,5 +1,5 @@
 # wordle-helper
-A python script to help solve [WORDLE](https://www.powerlanguage.co.uk/wordle/) game
+A python script to help solve [WORDLE](https://www.nytimes.com/games/wordle/) game
 
 相关文章：[Python Wordle 解题小帮手](https://wulu.zone/posts/Wordle-Python)
 
