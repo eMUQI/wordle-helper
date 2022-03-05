@@ -20,7 +20,7 @@ print(40*"-")
 for i in range(5):
 
     # handle input
-    guess = input("{0}：".format(i+1))
+    guess = input("{0}：".format(i+1)).lower()
     results = input("result:")
     for n in range(len(results)):
         if results[n] == "0":
